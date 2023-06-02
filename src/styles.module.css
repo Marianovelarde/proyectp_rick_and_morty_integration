@@ -1,0 +1,14 @@
+.navegador {
+    color: red;
+    text-decoration: dashed;
+}
+
+.active {
+-webkit-text-stroke: 2px red;
+color: transparent;
+letter-spacing: 2px;
+}
+
+.disable {
+
+}

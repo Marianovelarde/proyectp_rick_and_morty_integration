@@ -1,0 +1,69 @@
+.divContainer {
+ border: 1px solid rgb(191, 233, 199);
+ border-radius: 10px;
+ background-color: rgb(45, 121, 244);
+ padding: 10px;
+  flex-wrap: wrap;
+  display: inline-block;
+  margin: 5px;
+  height: 10%;
+  width: 30%;
+}
+.divContainer img {
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 50%;
+    height: auto;
+}
+.name {
+    font-size: 50px;
+    text-align: center;
+    color: #fcf9f4
+    
+    
+}
+.subTitulo {
+    font-size: 40px;
+    color: rgb(16, 16, 15);
+    letter-spacing: 1px;
+}
+.boton {
+    
+    padding: 20px;
+    background-color: rgb(236, 193, 107);
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.boton:hover {
+    background-color: rgb(208, 23, 23);
+
+}
+.divHr {
+    padding: 1px;
+
+}
+.divBoton {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: rgb(45, 121, 244);
+    text-align:end;
+    margin-bottom: 5px;
+
+}
+.inputt {
+    border: 1px solid black;
+    border-radius: "10px";
+    padding: 10px;
+}
+.botonSearch {
+    padding: 3px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 40px;
+}
+.botonSearch:hover {
+    background-color:  rgb(208, 23, 23);
+
+}
